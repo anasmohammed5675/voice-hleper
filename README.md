@@ -1,4 +1,1 @@
-# Voice Assistant
-Files: index.html, style.css, script.js, assistant.php.
-XAMPP: start Apache, copy the folder to C:\xampp\htdocs\voice_assistant_project, then open http://localhost/voice_assistant_project/
-GitHub: create a repository and upload all project files.
+This project is a web-based Voice Assistant developed using HTML, CSS, JavaScript, and PHP. It allows users to send messages and receive responses from a PHP backend. It also supports voice input using speech recognition. The project demonstrates frontend design, server-side PHP processing, and communication between the webpage and server.
